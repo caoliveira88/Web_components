@@ -3,7 +3,7 @@
 
 I developed skills in components and have more productivity in modules that can be reused with the same structure.
 
-## Technologies and tools
+## Tool kit
  
 - ``HTML``
 - ``CSS``
